@@ -2,7 +2,7 @@ const pagesEvents = {
     'stundenplan': {
       title: 'Stundenplan',
       content: `
-        Dies ist der Stundenplan der 9b: (Notiz: Dies war der alte Stundenplan der 8b, der neue wurde noch nicht entschieden)
+        Dies ist der Stundenplan der 9b:
         <div class="table-container">
           <table>
             <thead>
@@ -18,50 +18,50 @@ const pagesEvents = {
             <tbody>
               <tr>
                 <td>1. Std. (07:50-08:35)</td>
-                <td>L**ein R112</td>
-                <td>Deutsch R112</td>
-                <td>Mathe R306</td>
-                <td>Geschichte R304</td>
-                <td>Mathe R112</td>
+                <td>Deutsch R006</td>
+                <td>Mathe R313</td>
+                <td>Rel/Eth R113/108</td>
+                <td>Deutsch R307</td>
+                <td>Sport</td>
               </tr>
               <tr>
                 <td>2. Std. (08:35-09:20)</td>
-                <td>L**ein R112</td>
-                <td>Deutsch R112</td>
-                <td>Mathe R306</td>
-                <td>Geschichte R304</td>
-                <td>Mathe R112</td>
+                <td>L**ein R006</td>
+                <td>Mathe R313</td>
+                <td>Rel/Eth R113/108</td>
+                <td>Deutsch R307</td>
+                <td>Sport</td>
               </tr>
               <tr>
                 <td>3. Std. (09:35-10:20)</td>
-                <td>Sport</td>
-                <td>Englisch R109/304</td>
                 <td>L**ein R006</td>
-                <td>Deutsch R112</td>
-                <td>Chemie R214</td>
+                <td>Deutsch R006</td>
+                <td>Profilfach</td>
+                <td>Profilfach</td>
+                <td>Mathe R307</td>
               </tr>
               <tr>
                 <td>4. Std. (10:20-11:05)</td>
-                <td>Englisch R006/307</td>
-                <td>Deutsch R109/304</td>
+                <td>Englisch R006</td>
                 <td>Musik R006</td>
-                <td>Deutsch R112</td>
-                <td>Chemie R214</td>
+                <td>Profilfach</td>
+                <td>Profilfach</td>
+                <td>Englisch R307</td>
               </tr>
               <tr>
                 <td>5. Std. (11:20-12:05)</td>
-                <td>Profilfach</td>
-                <td>Profilfach</td>
-                <td>Rk/Ev/Eth R020/108/209</td>
-                <td>L**ein R112</td>
-                <td>Profilfach</td>
+                <td>Geographie R209</td>
+                <td>Englisch R304</td>
+                <td>Mathe R313</td>
+                <td>Geschichte R113</td>
+                <td>Englisch R307</td>
               </tr>
               <tr>
                 <td>6. Std. (12:10-12:55)</td>
-                <td>Profilfach</td>
+                <td>Geographie R209</td>
+                <td>Latein R304</td>
                 <td>-</td>
-                <td>-</td>
-                <td>Englisch R006/112</td>
+                <td>Geschichte R113</td>
                 <td>Profilfach</td>
               </tr>
               <tr>
@@ -74,35 +74,35 @@ const pagesEvents = {
               </tr>
               <tr>
                 <td>8. Std. (14:00-14:45)</td>
+                <td>Biologie R118</td>
+                <td>Hebräisch R303</td>
+                <td>Chemie R214</td>
                 <td>-</td>
-                <td>Physik R313</td>
                 <td>-</td>
-                <td>-</td>
-                <td>Kunst DHG A108</td>
               </tr>
               <tr>
                 <td>9. Std. (14:50-15:35)</td>
+                <td>Biologie R118</td>
+                <td>Hebräisch R303</td>
+                <td>Chemie R214</td>
+                <td>-</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>10. Std. (15:45-16:30)</td>
+                <td>Gemeinschaftskunde R304</td>
                 <td>-</td>
                 <td>Physik R313</td>
                 <td>-</td>
                 <td>-</td>
-                <td>Kunst DHG A108</td>
-              </tr>
-              <tr>
-                <td>10. Std. (15:45-16:30)</td>
-                <td>-</td>
-                <td>Wirtschaft R112</td>
-                <td>-</td>
-                <td>-</td>
-                <td>Sport</td>
               </tr>
               <tr>
                 <td>11. Std. (16:35-17:20)</td>
+                <td>Gemeinschaftskunde R304</td>
                 <td>-</td>
-                <td>Wirtschaft R112</td>
+                <td>Physik R313</td>
                 <td>-</td>
                 <td>-</td>
-                <td>Sport</td>
               </tr>
             </tbody>
           </table>
