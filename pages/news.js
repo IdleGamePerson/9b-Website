@@ -8,7 +8,7 @@ const pagesNews = {
         <br>Die Rubriken sind Normales, Panik und 9b-Sachen.
         <br><b>Links</b>, nicht zu verwechseln mit Rechts:
         <ul>
-          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 31')">Neueste Ausgabe</a></li>
+          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 38')">Neueste Ausgabe</a></li>
           <li><a href="#" onclick="event.preventDefault(); navigateTo('category-zeitungen')">Alle Ausgaben</a></li>
         </ul>
         <h2>Alle Ausgaben</h2>
@@ -22,6 +22,11 @@ const pagesNews = {
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 38')">KW 38, 2026</a></td>
+                <td>14.-18. Sep. 2026</td>
+                <td>38.</td>
+              </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 31')">KW 31, 2026</a></td>
                 <td>27.-29. Jul. 2026</td>
@@ -1478,6 +1483,30 @@ const pagesNews = {
       categories: ['zeitungen'],
       created: '2026-08-01',
       edited: '2026-08-01',
+      related: [],
+      weight: 1
+    },
+    '2026 kw 38': {
+      title: '9b-Zeitung - 2026, KW 38',
+      content: `
+        Dies ist die 38. Ausgabe der 9b-Zeitung für KW 38 2026, von dem 14. bis zu dem 18. September 2026.
+        <h2>Normales</h2>
+        <h3>Sommerferien Ende</h3>
+        Die Sommerferien endeten. 8b -> 9b.
+        <h2>Panik</h2>
+        <h3>Direkt Latein</h3>
+        Direkt Latein
+        <h2>9b-Sachen</h2>
+        Keine :(
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Ziemlich trivial eigentlich</li>
+        </ul>
+      `,
+      categories: ['zeitungen'],
+      created: '2026-09-15',
+      edited: '2026-09-15',
       related: [],
       weight: 1
     }
