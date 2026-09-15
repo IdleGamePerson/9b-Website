@@ -266,7 +266,7 @@ Wichtig: Nein
 
 Inhalt:
 
-        Dies ist der Stundenplan der 9b: (Notiz: Dies war der alte Stundenplan der 8b, der neue wurde noch nicht entschieden)
+        Dies ist der Stundenplan der 9b:
         <div class="table-container">
           <table>
             <thead>
@@ -282,50 +282,50 @@ Inhalt:
             <tbody>
               <tr>
                 <td>1. Std. (07:50-08:35)</td>
-                <td>L**ein R112</td>
-                <td>Deutsch R112</td>
-                <td>Mathe R306</td>
-                <td>Geschichte R304</td>
-                <td>Mathe R112</td>
+                <td>Deutsch R006</td>
+                <td>Mathe R313</td>
+                <td>Rel/Eth R113/108</td>
+                <td>Deutsch R307</td>
+                <td>Sport</td>
               </tr>
               <tr>
                 <td>2. Std. (08:35-09:20)</td>
-                <td>L**ein R112</td>
-                <td>Deutsch R112</td>
-                <td>Mathe R306</td>
-                <td>Geschichte R304</td>
-                <td>Mathe R112</td>
+                <td>L**ein R006</td>
+                <td>Mathe R313</td>
+                <td>Rel/Eth R113/108</td>
+                <td>Deutsch R307</td>
+                <td>Sport</td>
               </tr>
               <tr>
                 <td>3. Std. (09:35-10:20)</td>
-                <td>Sport</td>
-                <td>Englisch R109/304</td>
                 <td>L**ein R006</td>
-                <td>Deutsch R112</td>
-                <td>Chemie R214</td>
+                <td>Deutsch R006</td>
+                <td>Profilfach</td>
+                <td>Profilfach</td>
+                <td>Mathe R307</td>
               </tr>
               <tr>
                 <td>4. Std. (10:20-11:05)</td>
-                <td>Englisch R006/307</td>
-                <td>Deutsch R109/304</td>
+                <td>Englisch R006</td>
                 <td>Musik R006</td>
-                <td>Deutsch R112</td>
-                <td>Chemie R214</td>
+                <td>Profilfach</td>
+                <td>Profilfach</td>
+                <td>Englisch R307</td>
               </tr>
               <tr>
                 <td>5. Std. (11:20-12:05)</td>
-                <td>Profilfach</td>
-                <td>Profilfach</td>
-                <td>Rk/Ev/Eth R020/108/209</td>
-                <td>L**ein R112</td>
-                <td>Profilfach</td>
+                <td>Geographie R209</td>
+                <td>Englisch R304</td>
+                <td>Mathe R313</td>
+                <td>Geschichte R113</td>
+                <td>Englisch R307</td>
               </tr>
               <tr>
                 <td>6. Std. (12:10-12:55)</td>
-                <td>Profilfach</td>
+                <td>Geographie R209</td>
+                <td>Latein R304</td>
                 <td>-</td>
-                <td>-</td>
-                <td>Englisch R006/112</td>
+                <td>Geschichte R113</td>
                 <td>Profilfach</td>
               </tr>
               <tr>
@@ -338,35 +338,35 @@ Inhalt:
               </tr>
               <tr>
                 <td>8. Std. (14:00-14:45)</td>
+                <td>Biologie R118</td>
+                <td>Hebräisch R303</td>
+                <td>Chemie R214</td>
                 <td>-</td>
-                <td>Physik R313</td>
                 <td>-</td>
-                <td>-</td>
-                <td>Kunst DHG A108</td>
               </tr>
               <tr>
                 <td>9. Std. (14:50-15:35)</td>
+                <td>Biologie R118</td>
+                <td>Hebräisch R303</td>
+                <td>Chemie R214</td>
+                <td>-</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>10. Std. (15:45-16:30)</td>
+                <td>Gemeinschaftskunde R304</td>
                 <td>-</td>
                 <td>Physik R313</td>
                 <td>-</td>
                 <td>-</td>
-                <td>Kunst DHG A108</td>
-              </tr>
-              <tr>
-                <td>10. Std. (15:45-16:30)</td>
-                <td>-</td>
-                <td>Wirtschaft R112</td>
-                <td>-</td>
-                <td>-</td>
-                <td>Sport</td>
               </tr>
               <tr>
                 <td>11. Std. (16:35-17:20)</td>
+                <td>Gemeinschaftskunde R304</td>
                 <td>-</td>
-                <td>Wirtschaft R112</td>
+                <td>Physik R313</td>
                 <td>-</td>
                 <td>-</td>
-                <td>Sport</td>
               </tr>
             </tbody>
           </table>
@@ -458,6 +458,125 @@ Kategorien: spiele
 
 Erstellt: 18.07.2026
 Bearbeitet: 26.07.2026
+
+Wichtig: Nein
+
+------------------------------
+
+=== Time Survival ===
+
+Inhalt:
+
+        <div class="infobox">
+          <div class="infobox-header">Time Survival</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Genre</span>
+              <span class="infobox-value">Bullet Hell ig?</span>
+            </div>
+          </div>
+        </div>
+        Time Survival ist <strong>ein 9b-Spiel.</strong><br>
+        In Time Survival muss man so lange wie möglich überleben.<br>
+        Der Spieler ist ein X mit Geschwindigkeit 10km/h und 5 Leben, welcher mit WASD und den Pfeiltasten kontrolliert wird.
+        <h2>Kreise</h2>
+        Es gibt Kreise auf dem Bildschirm. Wenn man sie berührt, verliert man Leben. Auf 0 Leben stirbt man.<br>
+        Kreisarten:
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Farbe</td>
+                <td>Erscheint ab _ Sek.</td>
+                <td>Geschwindigkeit</td>
+                <td>Besonderheit</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Grün</td>
+                <td>0</td>
+                <td>20km/h</td>
+                <td>Keine</td>
+              </tr>
+              <tr>
+                <td>Blau</td>
+                <td>20</td>
+                <td>6km/h</td>
+                <td>Folgt dem Spieler</td>
+              </tr>
+              <tr>
+                <td>Rot</td>
+                <td>30</td>
+                <td>6km/h</td>
+                <td>Nimmt 3 Leben</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <h2>Items</h2>
+        Nach 10 Sekunden können Items erscheinen. Items bewegen sich mit 10km/h auf dem Bildschirm.<br>
+        Man hat ein Item-Inventar, welches 3 Items enthalten kann. Man kann sie mit den Tasten 1, 2 und 3 benutzen.
+        <div class="table-container">
+          <table>
+            <thead>
+              <tr>
+                <td>Item</td>
+                <td>Chance</td>
+                <td>Dauer</td>
+                <td>Effekt</td>
+                <td>Details</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Herz</td>
+                <td>50%</td>
+                <td>-</td>
+                <td>+1 Leben</td>
+                <td>-</td>
+              </tr>
+              <tr>
+                <td>Apfel</td>
+                <td>10%</td>
+                <td>2s</td>
+                <td>Geschwindigkeitsboost</td>
+                <td>+60%</td>
+              <tr>
+                <td>Stachelball</td>
+                <td>10%</td>
+                <td>-</td>
+                <td>10 verteidigende Stachelbälle erscheinen</td>
+                <td>Berühren sie Kreise, zerstören sie den Kreis und sich selbst. Können auch Items zerstören.</td>
+              <tr>
+                <td>Blitz</td>
+                <td>10%</td>
+                <td>1s</td>
+                <td>Blaue Kreise werden verwirrt</td>
+                <td>Bewegen sich nicht mehr</td>
+              <tr>
+                <td>Uhr</td>
+                <td>10%</td>
+                <td>1s</td>
+                <td>Zeitverschiebung</td>
+                <td>Kreisgeschwindigkeit -50%</td>
+              <tr>
+                <td>Schild</td>
+                <td>10%</td>
+                <td>1s</td>
+                <td>Unendlich Leben</td>
+                <td>-</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <blockquote>Ich hab nix zu sagen also erwähne ich einfach mal die Zahl 9</blockquote>
+      
+
+Kategorien: spiele
+
+Erstellt: 22.08.2026
+Bearbeitet: 22.08.2026
 
 Wichtig: Nein
 
@@ -3131,7 +3250,8 @@ Inhalt:
         Er ist der Mathelehrer (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 20')">9b-Zeitung</a>)<br>
         Er bewies <a href="#" onclick="event.preventDefault(); navigateTo('latein')">n39's Beweis</a>.<br>
         Mit ihm kann man <a href="#" onclick="event.preventDefault(); navigateTo('photosynthese')">Photosynthese</a> machen.<br>
-        Er noclippte mal in die <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 24')">Backrooms</a>.
+        Er noclippte mal in die <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 24')">Backrooms</a>.<br>
+        Er hat mit <a href="#" onclick="event.preventDefault(); navigateTo('n94')">n94</a> eine geplante Hochzeit.
       
 
 Kategorien: schüler
@@ -3228,7 +3348,8 @@ Inhalt:
         In Kunst machte er mal sein Zeug (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 6')">9b-Zeitung</a>)<br>
         Er kann nicht deutschen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 49')">9b-Zeitung</a>)
         Er hat <a href="#" onclick="event.preventDefault(); navigateTo('tff3125')">TFF3125</a>, zusammen mit <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a>.<br>
-        Er programmierte das <a href="#" onclick="event.preventDefault(); navigateTo('als obob spiel')">Als Obob Spiel</a>.
+        Er programmierte das <a href="#" onclick="event.preventDefault(); navigateTo('als obob spiel')">Als Obob Spiel</a>.<br>
+        Er hat mit <a href="#" onclick="event.preventDefault(); navigateTo('n79')">n79</a> eine geplante Hochzeit.
       
 
 Kategorien: schüler
@@ -3311,7 +3432,7 @@ Inhalt:
         <br>Die Rubriken sind Normales, Panik und 9b-Sachen.
         <br><b>Links</b>, nicht zu verwechseln mit Rechts:
         <ul>
-          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 31')">Neueste Ausgabe</a></li>
+          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 38')">Neueste Ausgabe</a></li>
           <li><a href="#" onclick="event.preventDefault(); navigateTo('category-zeitungen')">Alle Ausgaben</a></li>
         </ul>
         <h2>Alle Ausgaben</h2>
@@ -3325,6 +3446,11 @@ Inhalt:
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 38')">KW 38, 2026</a></td>
+                <td>14.-18. Sep. 2026</td>
+                <td>38.</td>
+              </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 31')">KW 31, 2026</a></td>
                 <td>27.-29. Jul. 2026</td>
@@ -4968,6 +5094,35 @@ Kategorien: zeitungen
 
 Erstellt: 01.08.2026
 Bearbeitet: 01.08.2026
+
+Wichtig: Nein
+
+------------------------------
+
+=== 9b-Zeitung - 2026, KW 38 ===
+
+Inhalt:
+
+        Dies ist die 38. Ausgabe der 9b-Zeitung für KW 38 2026, von dem 14. bis zu dem 18. September 2026.
+        <h2>Normales</h2>
+        <h3>Sommerferien Ende</h3>
+        Die Sommerferien endeten. 8b -> 9b.
+        <h2>Panik</h2>
+        <h3>Direkt Latein</h3>
+        Direkt Latein
+        <h2>9b-Sachen</h2>
+        Keine :(
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Ziemlich trivial eigentlich</li>
+        </ul>
+      
+
+Kategorien: zeitungen
+
+Erstellt: 15.09.2026
+Bearbeitet: 15.09.2026
 
 Wichtig: Nein
 
