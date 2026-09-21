@@ -385,7 +385,7 @@ const pagesGames = {
       title: 'Platformer',
       redirectTo: "zufälliger 2d platformer"
     },
-    'ein ganz normales mathespiel': {
+    /*'ein ganz normales mathespiel': {
       title: 'Ein ganz normales Mathespiel',
       content: `
         <div class="infobox">
@@ -484,7 +484,7 @@ const pagesGames = {
     'egnm': {
       title: 'EGNM',
       redirectTo: "ein ganz normales mathespiel"
-    },
+    },*/
     "n42s rng": {
       title: "n42's RNG",
       warnings: [

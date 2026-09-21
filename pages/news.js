@@ -1493,6 +1493,8 @@ const pagesNews = {
         <h2>Normales</h2>
         <h3>Sommerferien Ende</h3>
         Die Sommerferien endeten. 8b -> 9b.
+        <h3>FEUERALARM</h3>
+        Donnerstags um EXAKT 9:00 war der Feueralarm.
         <h2>Panik</h2>
         <h3>Direkt Latein</h3>
         Direkt Latein
@@ -1501,12 +1503,15 @@ const pagesNews = {
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
         <ul>
-          <li>Ziemlich trivial eigentlich</li>
+          <li>Montag 1.+2. - Ersetzt durch Klassenlehrerstunde.</li>
+          <li>Montag 6.-11. - Geo 2. und die Mittagsschule ist ausgefallen.</li>
+          <li>Dienstag 1. - Mathe ist teilweise ausgefallen.</li>
+          <li>Freitag 5.+6. - Engisch und Profilfach ist ausgefallen.</li>
         </ul>
       `,
       categories: ['zeitungen'],
-      created: '2026-09-15',
-      edited: '2026-09-15',
+      created: '2026-09-20',
+      edited: '2026-09-20',
       related: [],
       weight: 1
     }
