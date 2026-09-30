@@ -1489,7 +1489,7 @@ const pagesIJokes = {
       title: 'S ist nicht freigeschaltet',
       content: `
         <div class="infobox">
-          <div class="infobox-header">Alphabet ohne P</div>
+          <div class="infobox-header">S ist nicht freigeschaltet</div>
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Insider-Art</span>
@@ -1510,6 +1510,93 @@ const pagesIJokes = {
       categories: ['insider'],
       created: '2026-06-28',
       edited: '2026-06-28',
+      related: [],
+      weight: 1
+    },
+    'lunch is ready': {
+      title: 'Lunch is ready',
+      content: `
+        <div class="infobox">
+          <div class="infobox-header">Lunch is ready</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Insider-Art</span>
+              <span class="infobox-value">Eingespawnt</span>
+            </div>
+            <div class="infobox-row">
+              <span class="infobox-label">Entstanden in</span>
+              <span class="infobox-value">OMG</span>
+            </div>
+            <div class="infobox-row">
+              <span class="infobox-label">Typ</span>
+              <span class="infobox-value">Niemand</span>
+            </div>
+          </div>
+        </div>
+        Goodnotes hat einen Sticker, auf dem "Lunch is ready" steht. Jetzt wird er bei vielen Szenarien eingefügt, vor allem den komischen.
+        <blockquote>He unfortunately died in the incident. (LUNCH IS READY)</blockquote>
+      `,
+      categories: ['insider'],
+      created: '2026-09-30',
+      edited: '2026-09-30',
+      related: [],
+      weight: 1
+    },
+    'du bist nutzlos': {
+      title: 'du bist NUTZLOS',
+      content: `
+        <div class="infobox">
+          <div class="infobox-header">du bist NUTZLOS</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Insider-Art</span>
+              <span class="infobox-value">Eingespawnt</span>
+            </div>
+            <div class="infobox-row">
+              <span class="infobox-label">Entstanden in</span>
+              <span class="infobox-value">Mathe?</span>
+            </div>
+            <div class="infobox-row">
+              <span class="infobox-label">Typ</span>
+              <span class="infobox-value">Niemand</span>
+            </div>
+          </div>
+        </div>
+        Die neueste Beleidigung der 9b.
+        <blockquote>nutzvoll? Nein</blockquote>
+      `,
+      categories: ['insider'],
+      created: '2026-09-30',
+      edited: '2026-09-30',
+      related: [],
+      weight: 1
+    },
+    'verdächtig': {
+      title: 'VERDÄCHTIG',
+      content: `
+        <div class="infobox">
+          <div class="infobox-header">VERDÄCHTIG</div>
+          <div class="infobox-content">
+            <div class="infobox-row">
+              <span class="infobox-label">Insider-Art</span>
+              <span class="infobox-value">Verdächtig</span>
+            </div>
+            <div class="infobox-row">
+              <span class="infobox-label">Entstanden in</span>
+              <span class="infobox-value">?</span>
+            </div>
+            <div class="infobox-row">
+              <span class="infobox-label">Typ</span>
+              <span class="infobox-value">Niemand</span>
+            </div>
+          </div>
+        </div>
+        Quasi alles ist verdächtig.
+        <blockquote>1263+721=?</blockquote>
+      `,
+      categories: ['insider'],
+      created: '2026-09-30',
+      edited: '2026-09-30',
       related: [],
       weight: 1
     },

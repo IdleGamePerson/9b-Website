@@ -8,7 +8,7 @@ const pagesNews = {
         <br>Die Rubriken sind Normales, Panik und 9b-Sachen.
         <br><b>Links</b>, nicht zu verwechseln mit Rechts:
         <ul>
-          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 38')">Neueste Ausgabe</a></li>
+          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 40')">Neueste Ausgabe</a></li>
           <li><a href="#" onclick="event.preventDefault(); navigateTo('category-zeitungen')">Alle Ausgaben</a></li>
         </ul>
         <h2>Alle Ausgaben</h2>
@@ -22,6 +22,16 @@ const pagesNews = {
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 40')">KW 40, 2026</a></td>
+                <td>28.-2. Sep./Okt. 2026</td>
+                <td>40.</td>
+              </tr>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 39')">KW 39, 2026</a></td>
+                <td>21.-25. Sep. 2026</td>
+                <td>39.</td>
+              </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 38')">KW 38, 2026</a></td>
                 <td>14.-18. Sep. 2026</td>
@@ -1512,6 +1522,54 @@ const pagesNews = {
       categories: ['zeitungen'],
       created: '2026-09-20',
       edited: '2026-09-20',
+      related: [],
+      weight: 1
+    },
+    '2026 kw 39': {
+      title: '9b-Zeitung - 2026, KW 39',
+      content: `
+        Dies ist die 39. Ausgabe der 9b-Zeitung für KW 39 2026, von dem 21. bis zu dem 25. September 2026.
+        <h2>Normales</h2>
+        Keine :/
+        <h2>Panik</h2>
+        <h3>Bundesjugendspiele</h3>
+        Am Freitag waren BJSe.
+        <h2>9b-Sachen</h2>
+        Keine :(
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Montag 8.-11. - Die Mittagsschule ist ausgefallen.</li>
+          <li>Dienstag 6. - Latein ist ausgefallen ENDLICH!!!!!!</li>
+          <li>Mittwoch 5. - Mathe ist ausgefallen.</li>
+        </ul>
+      `,
+      categories: ['zeitungen'],
+      created: '2026-09-30',
+      edited: '2026-09-30',
+      related: [],
+      weight: 1
+    },
+    '2026 kw 40': {
+      title: '9b-Zeitung - 2026, KW 40',
+      content: `
+        Dies ist die 40. Ausgabe der 9b-Zeitung für KW 40 2026, von dem 28. September bis zu dem 2. Oktober 2026.
+        <h2>Normales</h2>
+        <h3>NwT ist nice</h3>
+        In Technik lernen wir jetzt Ardiuno und bauen quasi ein neues magnum opus pro woche
+        <h2>Panik</h2>
+        Keine :D
+        <h2>9b-Sachen</h2>
+        Keine :(
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Montag 8.+9. - Biologie ist ausgefallen.</li>
+        </ul>
+      `,
+      categories: ['zeitungen'],
+      created: '2026-09-30',
+      edited: '2026-09-30',
       related: [],
       weight: 1
     }

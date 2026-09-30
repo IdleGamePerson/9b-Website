@@ -18,7 +18,7 @@ const pagesNSystem = {
             <tbody>
               <tr>
                 <td>n00</td>
-                <td>26</td>
+                <td>25</td>
                 <td>w</td>
                 <td>Keine</td>
               </tr>
@@ -36,7 +36,7 @@ const pagesNSystem = {
               </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('n08')">n08</a></td>
-                <td>24</td>
+                <td>23</td>
                 <td>m</td>
                 <td>Oh nein</td>
               </tr>
@@ -48,15 +48,15 @@ const pagesNSystem = {
               </tr>
               <tr>
                 <td>n20</td>
-                <td>11</td>
+                <td>10</td>
                 <td>w</td>
                 <td>Keine</td>
               </tr>
               <tr>
                 <td>n21</td>
-                <td>7</td>
+                <td>-</td>
                 <td>w</td>
-                <td>Keine</td>
+                <td>Nicht mehr in 9b</td>
               </tr>
               <tr>
                 <td>n24</td>
@@ -66,55 +66,55 @@ const pagesNSystem = {
               </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('n29')">n29</a></td>
-                <td>8</td>
+                <td>7</td>
                 <td>m</td>
                 <td>Keine</td>
               </tr>
               <tr>
                 <td>n35</td>
-                <td>21</td>
+                <td>20</td>
                 <td>w</td>
                 <td>Keine</td>
               </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('n39')">n39</a></td>
-                <td>22</td>
+                <td>21</td>
                 <td>m</td>
                 <td>Keine</td>
               </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a></td>
-                <td>16</td>
+                <td>15</td>
                 <td>m</td>
                 <td>Ist Eaay</td>
               </tr>
               <tr>
                 <td>n49</td>
-                <td>15</td>
+                <td>14</td>
                 <td>m</td>
                 <td>Keine</td>
               </tr>
               <tr>
                 <td>n53</td>
-                <td>10</td>
-                <td>w</td>
-                <td>Keine</td>
-              </tr>
-              <tr>
-                <td>n61</td>
-                <td>25</td>
-                <td>w</td>
-                <td>Keine</td>
-              </tr>
-              <tr>
-                <td>n63</td>
                 <td>9</td>
                 <td>w</td>
                 <td>Keine</td>
               </tr>
               <tr>
+                <td>n61</td>
+                <td>24</td>
+                <td>w</td>
+                <td>Keine</td>
+              </tr>
+              <tr>
+                <td>n63</td>
+                <td>8</td>
+                <td>w</td>
+                <td>Keine</td>
+              </tr>
+              <tr>
                 <td>n65</td>
-                <td>12</td>
+                <td>11</td>
                 <td>w</td>
                 <td>Keine</td>
               </tr>
@@ -125,10 +125,10 @@ const pagesNSystem = {
                 <td>War in 9b, jetzt 9a</td>
               </tr>
               <tr>
-                <td><a href="#" onclick="event.preventDefault(); navigateTo('n69')">n69</a></td>
-                <td>17</td>
+                <td>n69</td>
+                <td>16</td>
                 <td>w</td>
-                <td>Klassensprecher</td>
+                <td>Keine</td>
               </tr>
               <tr>
                 <td>n71</td>
@@ -144,27 +144,27 @@ const pagesNSystem = {
               </tr>
               <tr>
                 <td>n79</td>
-                <td>14</td>
-                <td>m</td>
-                <td>Keine</td>
-              </tr>
-              <tr>
-                <td><a href="#" onclick="event.preventDefault(); navigateTo('n83')">n83</a></td>
                 <td>13</td>
                 <td>m</td>
                 <td>Keine</td>
               </tr>
               <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('n83')">n83</a></td>
+                <td>12</td>
+                <td>m</td>
+                <td>Keine</td>
+              </tr>
+              <tr>
                 <td>n88</td>
-                <td>18</td>
+                <td>17</td>
                 <td>m</td>
                 <td>Keine</td>
               </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('n90')">n90</a></td>
-                <td>27</td>
+                <td>26</td>
                 <td>m</td>
-                <td>Klassensprecher</td>
+                <td>Keine</td>
               </tr>
               <tr>
                 <td>n92</td>
@@ -174,19 +174,19 @@ const pagesNSystem = {
               </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('n94')">n94</a></td>
-                <td>19</td>
+                <td>18</td>
                 <td>m</td>
                 <td>Keine</td>
               </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('n97')">n97</a></td>
-                <td>23</td>
+                <td>22</td>
                 <td>m</td>
                 <td>Keine</td>
               </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('n98')">n98</a></td>
-                <td>20</td>
+                <td>19</td>
                 <td>m</td>
                 <td>Keine</td>
               </tr>
@@ -208,7 +208,7 @@ const pagesNSystem = {
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Klassenliste</span>
-              <span class="infobox-value">#24</span>
+              <span class="infobox-value">#23</span>
             </div>
             <div class="infobox-row">
               <span class="infobox-label">Geschlecht</span>
@@ -216,7 +216,7 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n08 'ist' ein Schüler in der 9b. Auf der Klassenliste ist er in Position 24.<br>
+        n08 'ist' ein Schüler in der 9b. Auf der Klassenliste ist er in Position 23.<br>
         Oh nein.<br>Er wollte mal mit einer 4 in Musik flexen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 6')">9b-Zeitung</a>)<br>
         Er hat aufgrund seiner eigenen Gehirnlosigkeit mal <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a> beleidigt (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 47')">9b-Zeitung</a>)<br>
         Er erfand <a href="#" onclick="event.preventDefault(); navigateTo('böb')">Böb</a>. Er ist sehr <a href="#" onclick="event.preventDefault(); navigateTo('quatschzeit')">quatschzeitmäßig</a>.
@@ -235,7 +235,7 @@ const pagesNSystem = {
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Klassenliste</span>
-              <span class="infobox-value">#8</span>
+              <span class="infobox-value">#7</span>
             </div>
             <div class="infobox-row">
               <span class="infobox-label">Geschlecht</span>
@@ -243,7 +243,7 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n29 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 8.<br>
+        n29 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 7.<br>
         Er führte dazu, dass <a href="#" onclick="event.preventDefault(); navigateTo('n90')">n90</a> die Klassensprecherwahl gewann (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 38')">9b-Zeitung</a>).<br>
         Er zerstörte auch (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 13')">9b-Zeitung</a>)<br>
         Er ist die Hauptstadt der 9b.<br>
@@ -263,7 +263,7 @@ const pagesNSystem = {
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Klassenliste</span>
-              <span class="infobox-value">#22</span>
+              <span class="infobox-value">#21</span>
             </div>
             <div class="infobox-row">
               <span class="infobox-label">Geschlecht</span>
@@ -271,7 +271,7 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n39 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 22.<br>
+        n39 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 21.<br>
         Er erfand den Ofen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('ofen')">Ofen</a> und gilt damit als eine der wichtigsten Menschen der Realität.<br>
         Er arbeitet als <b>Quader</b>, auf welche 10 Newton Kraft ausgeübt wird.<br>
         Er ist.
@@ -290,7 +290,7 @@ const pagesNSystem = {
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Klassenliste</span>
-              <span class="infobox-value">#16</span>
+              <span class="infobox-value">#15</span>
             </div>
             <div class="infobox-row">
               <span class="infobox-label">Geschlecht</span>
@@ -298,36 +298,11 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n42 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 16.<br>
+        n42 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 15.<br>
         Er ist Eaay. Er wurde mal von <a href="#" onclick="event.preventDefault(); navigateTo('n08')">n08</a> beleidigt, weil n08 dumm ist (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 47')">9b-Zeitung</a>).
         Er hat <a href="#" onclick="event.preventDefault(); navigateTo('tff3125')">TFF3125</a>, zusammen mit <a href="#" onclick="event.preventDefault(); navigateTo('n94')">n94</a>.<br>
         Er produzierte das <a href="#" onclick="event.preventDefault(); navigateTo('ipad-banach-tarski-paradoxon')">iPad-Banach-Tarsik-Paradoxon</a>.
         <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 20')">Les einfach</a>
-      `,
-      categories: ['schüler'],
-      created: '2026-03-27',
-      edited: '2026-03-27',
-      related: [],
-      weight: 1
-    },
-    'n69': {
-      title: 'n69',
-      content: `
-        <div class="infobox">
-          <div class="infobox-header">n69</div>
-          <div class="infobox-content">
-            <div class="infobox-row">
-              <span class="infobox-label">Klassenliste</span>
-              <span class="infobox-value">#17</span>
-            </div>
-            <div class="infobox-row">
-              <span class="infobox-label">Geschlecht</span>
-              <span class="infobox-value">w</span>
-            </div>
-          </div>
-        </div>
-        n69 ist eine Schülerin in der 9b. Auf der Klassenliste ist sie in Position 17.<br>
-        Sie ist auch Klassensprecherin.
       `,
       categories: ['schüler'],
       created: '2026-03-27',
@@ -343,7 +318,7 @@ const pagesNSystem = {
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Klassenliste</span>
-              <span class="infobox-value">#14</span>
+              <span class="infobox-value">#13</span>
             </div>
             <div class="infobox-row">
               <span class="infobox-label">Geschlecht</span>
@@ -351,7 +326,7 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n79 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 14.<br>
+        n79 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 13.<br>
         Er sagte mal Oah 15 (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 19')">9b-Zeitung</a>)
         Er ist der Mathelehrer (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 20')">9b-Zeitung</a>)<br>
         Er bewies <a href="#" onclick="event.preventDefault(); navigateTo('latein')">n39's Beweis</a>.<br>
@@ -373,7 +348,7 @@ const pagesNSystem = {
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Klassenliste</span>
-              <span class="infobox-value">#13</span>
+              <span class="infobox-value">#12</span>
             </div>
             <div class="infobox-row">
               <span class="infobox-label">Geschlecht</span>
@@ -381,14 +356,13 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n83 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 9.<br>
-        Er spawnt oft, siehe alle 9b-Zeitungen ab 2026.<br>
+        n83 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 12.<br>
         <a href="#" onclick="event.preventDefault(); navigateTo('es gibt mehrere probleme in dieser realität und n83 verursachte alle')">Er verursachte auch alle Probleme in dieser Realität</a>. In den anderen? Können wir nicht wissen, wir sind in dieser.<br>
         Sein rechtlicher Name <a href="#" onclick="event.preventDefault(); navigateTo('n83 mit ß')">enthält ein ß</a>. Dem widersprechen ist wahrscheinlich eine Straftat.
       `,
       categories: ['schüler'],
       created: '2026-03-27',
-      edited: '2026-03-27',
+      edited: '2026-09-30',
       related: [],
       weight: 1
     },
@@ -400,7 +374,7 @@ const pagesNSystem = {
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Klassenliste</span>
-              <span class="infobox-value">#27</span>
+              <span class="infobox-value">#26</span>
             </div>
             <div class="infobox-row">
               <span class="infobox-label">Geschlecht</span>
@@ -408,14 +382,14 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n90 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 27.<br>
-        Er ist auch ein Klassensprecher, größtenteils dank <a href="#" onclick="event.preventDefault(); navigateTo('n29')">n29</a> (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 38')">9b-Zeitung</a>).<br>
+        n90 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 26.<br>
+        Er war auch ein Klassensprecher, größtenteils dank <a href="#" onclick="event.preventDefault(); navigateTo('n29')">n29</a> (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 38')">9b-Zeitung</a>).<br>
         Er schrieb mal am 30.9.25 eine 4-5 in einem Englisch Vokabeltest (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 40')">9b-Zeitung</a>)<br>
         Er ist eine Oper (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 21')">9b-Zeitung</a>)
       `,
       categories: ['schüler'],
       created: '2026-03-27',
-      edited: '2026-03-27',
+      edited: '2026-09-30',
       related: [],
       weight: 1
     },
@@ -427,7 +401,7 @@ const pagesNSystem = {
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Klassenliste</span>
-              <span class="infobox-value">#19</span>
+              <span class="infobox-value">#18</span>
             </div>
             <div class="infobox-row">
               <span class="infobox-label">Geschlecht</span>
@@ -435,7 +409,7 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n94 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 19.<br>
+        n94 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 18.<br>
         In Kunst machte er mal sein Zeug (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 6')">9b-Zeitung</a>)<br>
         Er kann nicht deutschen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 49')">9b-Zeitung</a>)
         Er hat <a href="#" onclick="event.preventDefault(); navigateTo('tff3125')">TFF3125</a>, zusammen mit <a href="#" onclick="event.preventDefault(); navigateTo('n42')">n42</a>.<br>
@@ -456,7 +430,7 @@ const pagesNSystem = {
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Klassenliste</span>
-              <span class="infobox-value">#23</span>
+              <span class="infobox-value">#22</span>
             </div>
             <div class="infobox-row">
               <span class="infobox-label">Geschlecht</span>
@@ -464,7 +438,7 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n97 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 23.<br>
+        n97 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 22.<br>
         Sein Stammbaum ist laut Englischlehrer aus einem Flugzeug gefallen (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 13')">9b-Zeitung</a>).
       `,
       categories: ['schüler'],
@@ -481,7 +455,7 @@ const pagesNSystem = {
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Klassenliste</span>
-              <span class="infobox-value">#20</span>
+              <span class="infobox-value">#19</span>
             </div>
             <div class="infobox-row">
               <span class="infobox-label">Geschlecht</span>
@@ -489,7 +463,7 @@ const pagesNSystem = {
             </div>
           </div>
         </div>
-        n98 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 20.<br>
+        n98 ist ein Schüler in der 9b. Auf der Klassenliste ist er in Position 19.<br>
         Ihm ging es mal nicht gut (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 39')">9b-Zeitung</a>), aber dann ging es ihm wieder gut (siehe <a href="#" onclick="event.preventDefault(); navigateTo('2025 kw 42')">9b-Zeitung</a>).<br>
         Er hatte mal <a href="#" onclick="event.preventDefault(); navigateTo('geprüft & empfohlen sticker')">ACHT GANZE GEPRÜFT UND EMPFOHLEN STICKER!!!</a>
       `,
