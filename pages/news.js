@@ -1532,6 +1532,8 @@ const pagesNews = {
         <h2>Normales</h2>
         Keine :/
         <h2>Panik</h2>
+        <h3>Was ist eine Messe</h3>
+        Donnerstag. Bionik. Cheater.
         <h3>Bundesjugendspiele</h3>
         Am Freitag waren BJSe.
         <h2>9b-Sachen</h2>
@@ -1558,7 +1560,8 @@ const pagesNews = {
         <h3>NwT ist nice</h3>
         In Technik lernen wir jetzt Ardiuno und bauen quasi ein neues magnum opus pro woche
         <h2>Panik</h2>
-        Keine :D
+        <h3>Sie sind idiotisch</h3>
+        Latein KA am 12.10.????????ß??????????????
         <h2>9b-Sachen</h2>
         Keine :(
         <h2>Anderes</h2>
@@ -1569,7 +1572,7 @@ const pagesNews = {
       `,
       categories: ['zeitungen'],
       created: '2026-09-30',
-      edited: '2026-09-30',
+      edited: '2026-10-04',
       related: [],
       weight: 1
     }
