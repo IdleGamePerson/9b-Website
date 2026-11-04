@@ -130,8 +130,8 @@ const pagesEvents = {
           <li>Donnerstag, 22. Okt. 2026: Deutsch KA 1/4</li>
           <li>Mittwoch, 11. Nov. 2026: Physik KA 1/2</li>
           <li>Montag, 16. Nov. 2026: Biologie KA 1/2</li>
-          <li>Donnerstag, 19. Nov. 2026 (verschoben von 26.): Geschichte KA 1/2</li>
           <li>Mittwoch, 25. Nov. 2026: Religion/Ethik KA 1/2</li>
+          <li>Donnerstag, 26. Nov. 2026: Geschichte KA 1/2</li>
           <li>Freitag, 27. Nov. 2026: Englisch KA 2/4</li>
           <li>Mittwoch, 2. Dez. 2026: Profilfach KA 2/4</li>
           <li>Montag, 7. Dez. 2026: Latein KA 2/4</li>
