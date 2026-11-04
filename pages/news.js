@@ -8,7 +8,7 @@ const pagesNews = {
         <br>Die Rubriken sind Normales, Panik und 9b-Sachen.
         <br><b>Links</b>, nicht zu verwechseln mit Rechts:
         <ul>
-          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 40')">Neueste Ausgabe</a></li>
+          <li><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 45')">Neueste Ausgabe</a></li>
           <li><a href="#" onclick="event.preventDefault(); navigateTo('category-zeitungen')">Alle Ausgaben</a></li>
         </ul>
         <h2>Alle Ausgaben</h2>
@@ -22,6 +22,26 @@ const pagesNews = {
               </tr>
             </thead>
             <tbody>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 45')">KW 45, 2026</a></td>
+                <td>2.-6. Nov. 2026</td>
+                <td>44.</td>
+              </tr>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 43')">KW 43, 2026</a></td>
+                <td>19.-23. Okt. 2026</td>
+                <td>43.</td>
+              </tr>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 42')">KW 42, 2026</a></td>
+                <td>12.-16. Okt. 2026</td>
+                <td>42.</td>
+              </tr>
+              <tr>
+                <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 41')">KW 41, 2026</a></td>
+                <td>5.-9. Okt. 2026</td>
+                <td>41.</td>
+              </tr>
               <tr>
                 <td><a href="#" onclick="event.preventDefault(); navigateTo('2026 kw 40')">KW 40, 2026</a></td>
                 <td>28.-2. Sep./Okt. 2026</td>
@@ -1573,6 +1593,108 @@ const pagesNews = {
       categories: ['zeitungen'],
       created: '2026-09-30',
       edited: '2026-10-04',
+      related: [],
+      weight: 1
+    },
+    '2026 kw 41': {
+      title: '9b-Zeitung - 2026, KW 41',
+      content: `
+        Dies ist die 41. Ausgabe der 9b-Zeitung für KW 41 2026, von dem 5. bis zu dem 9. Oktober 2026.
+        <h2>Normales</h2>
+        Keine :/
+        <h2>Panik</h2>
+        Keine :D
+        <h2>9b-Sachen</h2>
+        <h3>Englisch Podcasts</h3>
+        In Englisch durften wir Podcasts machen, und es entstand wieder super Zeug.
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Nein.</li>
+        </ul>
+      `,
+      categories: ['zeitungen'],
+      created: '2026-10-11',
+      edited: '2026-10-11',
+      related: [],
+      weight: 1
+    },
+    '2026 kw 42': {
+      title: '9b-Zeitung - 2026, KW 42',
+      content: `
+        Dies ist die 42. Ausgabe der 9b-Zeitung für KW 42 2026, von dem 12. bis zu dem 16. Oktober 2026.
+        <h2>Normales</h2>
+        Keine :/
+        <h2>Panik</h2>
+        <h3>Latein ka</h3>
+        <a href="https://de.wikipedia.org/wiki/Hass">Hier weiterlesen</a>
+        <h3>Englisch KA</h3>
+        News Reports. n08 nervt.
+        <h2>9b-Sachen</h2>
+        Keine :(
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Donnerstag 5.+6. - Geschichte ist ausgefallen.</li>
+          <li>Freitag 1.+2. - Sportm ist ausgefallen.</li>
+        </ul>
+      `,
+      categories: ['zeitungen'],
+      created: '2026-10-12',
+      edited: '2026-10-12',
+      related: [],
+      weight: 1
+    },
+    '2026 kw 43': {
+      title: '9b-Zeitung - 2026, KW 43',
+      content: `
+        Dies ist die 43. Ausgabe der 9b-Zeitung für KW 43 2026, von dem 19. bis zu dem 23. Oktober 2026.
+        <h2>Normales</h2>
+        Keine :/
+        <h2>Panik</h2>
+        <h3>Mathe KA</h3>
+        Potenzen??
+        <h3>Deutsch KA</h3>
+        ich bin kaputt. das ist keine metapher.
+        <h3>ICH FAND HERAUS WAS EINE MESSE IST UND ICH HASSE ES</h3>
+        ...
+        <h2>9b-Sachen</h2>
+        Keine :(
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Nö.</li>
+        </ul>
+      `,
+      categories: ['zeitungen'],
+      created: '2026-11-04',
+      edited: '2026-11-04',
+      related: [],
+      weight: 1
+    },
+    '2026 kw 45': {
+      title: '9b-Zeitung - 2026, KW 45',
+      content: `
+        Dies ist die 44. Ausgabe der 9b-Zeitung für KW 45 2026, von dem 2. bis zu dem 6. November 2026.
+        <h2>Normales</h2>
+        <h3>Biologie Aufgabe endlich vorbei</h3>
+        hehehehehehehehe
+        <h3>Mathe KA ausgegeben</h3>
+        So sieht es aus
+        <h2>Panik</h2>
+        Keine :D
+        <h2>9b-Sachen</h2>
+        <h3>Einbürgerungstest</h3>
+        In Gemeinschaftskunde haben wir den deutschen Einbürgerungstest gemacht. Wir sind nun offiziell deutsche Bürger!
+        <h2>Anderes</h2>
+        <h3>Ausfälle</h3>
+        <ul>
+          <li>Nope</li>
+        </ul>
+      `,
+      categories: ['zeitungen'],
+      created: '2026-11-04',
+      edited: '2026-11-04',
       related: [],
       weight: 1
     }

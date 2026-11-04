@@ -252,32 +252,32 @@ const pagesIJokes = {
       related: [],
       weight: 1
     },
-    'alphabet ohne p': {
-      title: 'Alphabet ohne P',
+    'alhabet ohne p': {
+      title: 'Alhabet ohne "P"',
       content: `
         <div class="infobox">
-          <div class="infobox-header">Alphabet ohne P</div>
+          <div class="infobox-header">Alhabet ohne "P"</div>
           <div class="infobox-content">
             <div class="infobox-row">
               <span class="infobox-label">Insider-Art</span>
-              <span class="infobox-value">Eingespawnt</span>
+              <span class="infobox-value">Eingesawnt</span>
             </div>
             <div class="infobox-row">
               <span class="infobox-label">Entstanden in</span>
               <span class="infobox-value">?</span>
             </div>
             <div class="infobox-row">
-              <span class="infobox-label">Typ</span>
+              <span class="infobox-label">Ty</span>
               <span class="infobox-value">fnvioeihurwjiod</span>
             </div>
           </div>
         </div>
-        Der Buchstabe P <strong>existiert nicht</strong> und ist Propaganda. Um zu protestieren, sage nicht P, wenn du das Alphabet sagst.
+        Der Buchstabe "P" <strong>existiert nicht</strong> und ist roaganda. Um zu rotestieren, sage nicht "P", wenn du das Alhabet sagst. Sag lieber B, oder noch besser, <b>nichts</b>.
         <blockquote>ABCDEFGHIJKLMNOQRSTUVWXYZ</blockquote>
       `,
       categories: ['insider'],
       created: '2026-06-24',
-      edited: '2026-06-24',
+      edited: '2026-11-04',
       related: [],
       weight: 1
     },
