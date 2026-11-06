@@ -1681,6 +1681,9 @@ const pagesNews = {
         hehehehehehehehe
         <h3>Mathe KA ausgegeben</h3>
         So sieht es aus
+        <h3>Deutsch lektüre</h3>
+        Ja :/<br>
+        <small>Notiz: Die Qualität dieser Erklärungen geht runter. Befrage es nicht.</small>
         <h2>Panik</h2>
         Keine :D
         <h2>9b-Sachen</h2>
@@ -1689,7 +1692,7 @@ const pagesNews = {
         <h2>Anderes</h2>
         <h3>Ausfälle</h3>
         <ul>
-          <li>Nope</li>
+          <li>Donnerstag 3.+4. - SoL in Technik. Das ist wahr. Wirklich.</li>
         </ul>
       `,
       categories: ['zeitungen'],
